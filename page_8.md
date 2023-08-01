@@ -1,6 +1,6 @@
 ### Памятка для ежедневной работы
 
-content
+[Статья](https://habr.com/ru/companies/manychat/articles/511946/)
 
 <hr>
 

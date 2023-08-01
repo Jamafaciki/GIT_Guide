@@ -1,6 +1,6 @@
 ### Настройка gitignore
 
-content
+[Статья](https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore)
 
 <hr>
 

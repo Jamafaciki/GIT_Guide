@@ -1,7 +1,7 @@
 ### Фичи
 
-content
-
+[Статья](https://habr.com/ru/companies/maxilect/articles/690114/ "Жми")
+![Картинка с фишками](https://www.artotoys.ru/wa-data/public/shop/products/04/22/2204/images/3167/3167.750x0.jpg)
 <hr>
 
 1. [Основные команды и их описание](page_1.md)

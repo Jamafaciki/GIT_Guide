@@ -1,6 +1,9 @@
 ### Генерация и привязка SSH к github
 
-content 
+
+[Как создать SSH](https://docs.github.com/ru/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[Как добавить на github](https://docs.github.com/ru/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 <hr>
 

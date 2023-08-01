@@ -1,6 +1,6 @@
 ### Рекомендации по работе с проектами
 
-content
+[Статья](https://habr.com/ru/companies/vk/articles/359246/)
 
 <hr>
 
